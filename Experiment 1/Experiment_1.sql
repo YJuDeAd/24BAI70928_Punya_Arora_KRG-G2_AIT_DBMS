@@ -1,3 +1,4 @@
+
 create table BOOKS (
 	ID INT PRIMARY KEY,
 	NAME VARCHAR(20) NOT NULL,
