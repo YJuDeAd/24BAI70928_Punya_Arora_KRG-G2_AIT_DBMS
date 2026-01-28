@@ -71,12 +71,6 @@ To understand and implement SQL SELECT queries using various clauses such as WHE
 
 7. Execute a query to calculate the average marks of students in each city using **AVG(marks)** and group the results using **GROUP BY city**.
 
-## Input/Output Analysis:
-![Input](Input.png)
-
-![Output](Output.png)
-
-
 ## Learning Outcomes:
 - Filter records using the WHERE clause.
 - Group records using GROUP BY.
